@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(240, 250, 249);
+    color: rgb(0, 0, 0);
+    margin: 5px;
+    padding: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header,
+footer {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+p {
+    text-align: center;
+    
+}
+.letter1 {
+    color: black;
+    text-decoration-line: underline;
+    font-size: 120%;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.bottom-left {
+    position: absolute;
+    bottom: 192px;
+    left: 16px;
+}
+h1 {
+    text-align: center;
+    font-size: 400%;
+    background-color: aliceblue;
+    margin-left: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 5px;
+padding-bottom: 5px;
+}
+h5 {
+    text-align: center;
+    font-size: 200%;
+    margin-top: 70px;
+    margin-right: 25px;
+}
+h6 {
+    text-align: center;
+    font-size: 200%;
+    margin-top: 50px;
+    margin-right: 25px;
+}
+    
