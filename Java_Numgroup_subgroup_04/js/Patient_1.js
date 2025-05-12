@@ -18,7 +18,7 @@ this.status = status;
 }
 let Ivanov = new Patient('Иванов', 'Иван', 'Иванович', new Date(1980, 6, 10), "м", "Назначено");
 Ivanov.setById();
-let Petrov = new Patient('Petrov', 'Иван', 'Иванович', new Date(1980, 6, 10), "м", "Исполнено");
+let Petrov = new Patient('Петров', 'Иван', 'Иванович', new Date(1980, 6, 10), "м", "Исполнено");
 Ivanov.setById();
-let Sydorov = new Patient('Sydorov', 'Иван', 'Иванович', new Date(1980, 6, 10), "м", "Медотвод");
+let Sydorov = new Patient('Сидоров', 'Иван', 'Иванович', new Date(1980, 6, 10), "м", "Медотвод");
 Ivanov.setById();
